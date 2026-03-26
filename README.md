@@ -20,20 +20,20 @@ This project models solar radiation and heat transfer in a solar distillation sy
 
 ### Solar Radiation
 
-![Radiation](results/radiacion.png)
+![Radiation](radiacion.png)
 
 ### Heat Available
 
-![Heat](results/Calorneto.png)
+![Heat](Calorneto.png)
 
 ### Water Production
 
-![Water](results/Masadeagua.png)
+![Water](Masadeagua.png)
 
 ## How to run
 
 pip install -r requirements.txt
-python Destilador.py
+python solar_distillation.py
 
 ## Author
 
