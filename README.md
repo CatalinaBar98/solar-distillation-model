@@ -24,11 +24,11 @@ This project models solar radiation and heat transfer in a solar distillation sy
 
 ### Heat Available
 
-![Heat](results/qreal.png)
+![Heat](results/Calorneto.png)
 
 ### Water Production
 
-![Water](results/md.png)
+![Water](results/masadeagua.png)
 
 ## How to run
 
