@@ -28,7 +28,7 @@ This project models solar radiation and heat transfer in a solar distillation sy
 
 ### Water Production
 
-![Water](results/masadeagua.png)
+![Water](results/Masadeagua.png)
 
 ## How to run
 
